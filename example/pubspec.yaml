@@ -1,0 +1,19 @@
+name: flutter_blue_example
+description: Demonstrates how to use the flutter_bluetooth_plus_upgraded plugin.
+publish_to: "none"
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_bluetooth_plus_upgraded:
+    path: ../
+
+flutter:
+  uses-material-design: true
