@@ -2,7 +2,7 @@ name: flutter_bluetooth_plus_upgraded
 description:
   Flutter plugin for connecting and communicating with Bluetooth Low Energy devices,
   on Android and iOS
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/jaswinda/flutter_bluetooth_plus_upgraded
 
 environment:
